@@ -1,6 +1,6 @@
 ## Rashid Hussain, PhD, RSci, MRSC
 
-Postdoctoral Researcher in Computational Pathology
+Postdoctoral Researcher in Computational Pathology at
 Humanitas Research Hospital (IRCCS), Milan, Italy  
 
 Computational chemist and bioinformatician working at the interface of molecular modelling, spatial omics, and machine learning. My research focuses on developing reproducible computational frameworks for integrating multi-omics and bioimage data to understand tumor microenvironment dynamics and therapeutic response.  [oai_citation:0‡Rashid Hussain_CV.pdf](sediment://file_00000000dda8724381c330290548f004)
