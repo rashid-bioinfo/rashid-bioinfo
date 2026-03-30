@@ -1,6 +1,6 @@
 ## Rashid Hussain
 
-Postdoctoral Researcher in Computational Biology and Drug Discovery  
+Postdoctoral Researcher 
 Humanitas Research Hospital (IRCCS), Milan, Italy  
 
 My work focuses on integrating spatial omics, bioimage analysis, and computational modeling to understand tumor microenvironment dynamics and therapeutic response. I develop reproducible pipelines and computational tools for high-dimensional biological data, with applications in cancer biology and drug discovery.
