@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Rashid Hussain 👋
 
-<!--
-**rashid-bioinfo/rashid-bioinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Postdoctoral Researcher @ Humanitas Research Hospital (Italy)  
+Bioinformatics | Computational Chemistry | Spatial Omics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Focus
+- Spatial transcriptomics & Imaging Mass Cytometry (IMC)
+- Tumor microenvironment modeling  
+- AI-driven biomarker discovery  
+- Molecular modeling & drug discovery  
+
+---
+
+## 🧰 Technical Expertise
+- Python, R, Bash  
+- Bioconductor, Scanpy, SpatialExperiment  
+- Molecular docking & MD simulations  
+- Nextflow workflow development  
+
+---
+
+## 🚀 Current Work
+- IMC analysis pipeline (Nextflow + R)  
+- Sarcoma Microenvironment Score (AI-based predictive model)  
+- Spatial modeling of drug distribution  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 VSpipe-GUI  
+Interactive GUI for virtual screening and hit selection  
+👉 https://github.com/rashid-bioinfo/vspipe-gui  
+
+### 🔹 BioPredict  
+QSAR model for predicting compound bioactivity  
+👉 https://github.com/rashid-bioinfo/BIOPREDICT  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashid-bioinfo&show_icons=true)
+
+---
+
+## 📫 Contact
+- Email: rashid.bioinfo@gmail.com  
+- Website: https://rashid-bioinfo.github.io/
