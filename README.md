@@ -1,50 +1,51 @@
-# Hi, I'm Rashid Hussain 👋
+## Rashid Hussain
 
-Postdoctoral Researcher @ Humanitas Research Hospital (Italy)  
-Bioinformatics | Computational Chemistry | Spatial Omics  
+Postdoctoral Researcher in Computational Biology and Drug Discovery  
+Humanitas Research Hospital (IRCCS), Milan, Italy  
 
----
-
-## 🔬 Research Focus
-- Spatial transcriptomics & Imaging Mass Cytometry (IMC)
-- Tumor microenvironment modeling  
-- AI-driven biomarker discovery  
-- Molecular modeling & drug discovery  
+My work focuses on integrating spatial omics, bioimage analysis, and computational modeling to understand tumor microenvironment dynamics and therapeutic response. I develop reproducible pipelines and computational tools for high-dimensional biological data, with applications in cancer biology and drug discovery.
 
 ---
 
-## 🧰 Technical Expertise
+### Research Areas
+
+- Spatial transcriptomics and Imaging Mass Cytometry (IMC)  
+- Tumor microenvironment modeling and biomarker discovery  
+- Computational drug discovery and molecular modeling  
+- Reproducible workflows for multi-omics data integration  
+
+---
+
+### Technical Expertise
+
 - Python, R, Bash  
-- Bioconductor, Scanpy, SpatialExperiment  
-- Molecular docking & MD simulations  
-- Nextflow workflow development  
+- Bioconductor ecosystem (SpatialExperiment, imcRtools) and Scanpy  
+- Molecular docking and molecular dynamics simulations  
+- Workflow development using Nextflow  
 
 ---
 
-## 🚀 Current Work
-- IMC analysis pipeline (Nextflow + R)  
-- Sarcoma Microenvironment Score (AI-based predictive model)  
-- Spatial modeling of drug distribution  
+### Current Work
+
+- Development of an IMC analysis pipeline for scalable and reproducible spatial data analysis  
+- Sarcoma Microenvironment Score (SMS): AI-based predictive and prognostic modeling  
+- Spatial modeling of drug distribution using statistical approaches  
 
 ---
 
-## 📌 Featured Projects
+### Selected Projects
 
-### 🔹 VSpipe-GUI  
-Interactive GUI for virtual screening and hit selection  
-👉 https://github.com/rashid-bioinfo/vspipe-gui  
+- **VSpipe-GUI**  
+  Interactive graphical interface for virtual screening and hit selection  
+  https://github.com/rashid-bioinfo/vspipe-gui  
 
-### 🔹 BioPredict  
-QSAR model for predicting compound bioactivity  
-👉 https://github.com/rashid-bioinfo/BIOPREDICT  
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashid-bioinfo&show_icons=true)
+- **BioPredict**  
+  QSAR-based model for predicting compound bioactivity  
+  https://github.com/rashid-bioinfo/BIOPREDICT  
 
 ---
 
-## 📫 Contact
+### Links
+
+- Website: https://rashid-bioinfo.github.io/  
 - Email: rashid.bioinfo@gmail.com  
-- Website: https://rashid-bioinfo.github.io/
