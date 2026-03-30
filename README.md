@@ -55,7 +55,7 @@ Computational chemist and bioinformatician working at the interface of molecular
 
 ---
 
-### Publications
+### Selected Publications
 
 - Hussain R. et al. (2024) *VSpipe-GUI: An Interactive GUI for Virtual Screening and Hit Selection.* International Journal of Molecular Sciences  
 - Hussain R. et al. (2023) Computational medicinal chemistry applications targeting HCV  
