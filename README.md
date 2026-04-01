@@ -21,7 +21,7 @@ Computational chemist and bioinformatician working at the interface of molecular
 
 - **Programming:** Python, R, Bash  
 - **Bioinformatics:** RNA-seq, ATAC-seq, scRNA-seq, genome annotation  
-- **Spatial & Imaging:** IMC workflows, SpatialExperiment, Scanpy  
+- **Spatial & Imaging:** IMC workflows, SpatialExperiment
 - **Computational Chemistry:** Molecular docking, molecular dynamics (GROMACS, AMBER), free energy profiling  
 - **Machine Learning:** QSAR modelling, SVM, Random Forest, ensemble methods  
 - **Workflow Development:** Reproducible pipelines using Nextflow and automation tools  
@@ -60,7 +60,7 @@ Computational chemist and bioinformatician working at the interface of molecular
 - Hussain R. et al. (2024) *VSpipe-GUI: An Interactive GUI for Virtual Screening and Hit Selection.* International Journal of Molecular Sciences  
 - Hussain R. et al. (2023) Computational medicinal chemistry applications targeting HCV  
 - Hussain R. et al. (2022–2021) Structure-based drug discovery and molecular modelling studies  
-- Hussain R. et al. (2019) SPECTRUM toolbox for proteomics (*Scientific Reports, Nature*)  [oai_citation:1‡Rashid Hussain_CV.pdf](sediment://file_00000000dda8724381c330290548f004)  
+- Hussain R. et al. (2019) SPECTRUM toolbox for proteomics (*Scientific Reports, Nature*)  
 
 ---
 
@@ -68,7 +68,7 @@ Computational chemist and bioinformatician working at the interface of molecular
 
 - Registered Scientist (RSci), Science Council UK  
 - Member (MRSC), Royal Society of Chemistry  
-- Global Talent endorsement by the Royal Society (UK)  [oai_citation:2‡Rashid Hussain_CV.pdf](sediment://file_00000000dda8724381c330290548f004)  
+- Global Talent endorsement by the Royal Society (UK)    
 
 ---
 
