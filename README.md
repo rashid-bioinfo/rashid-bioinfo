@@ -17,8 +17,8 @@
   <a href="https://scholar.google.com/citations?user=rashid-bioinfo">
     <img src="https://img.shields.io/badge/Google%20Scholar-Rashid%20Hussain-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar">
   </a>
-  <a href="https://orcid.org/0000-0000-0000-0000">
-    <img src="https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
+  <a href="https://orcid.org/0000-0002-6586-7241">
+    <img src="https://img.shields.io/badge/ORCID-0000--0002--6586--7241-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
   </a>
 </p>
 
