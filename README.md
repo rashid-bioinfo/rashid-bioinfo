@@ -186,6 +186,11 @@ Computational chemist and bioinformatician working at the interface of **molecul
 | *Molecular Diversity* | Springer Nature | 2022 |
 | *International Journal of Biological Macromolecules* | Elsevier | 2023 |
 | *RSC Advances* | Royal Society of Chemistry | 2023 |
+| *Scientific Reports* | Springer Nature | 2023 |
+| *BMC Chemistry* | Springer Nature (BMC) | 2023 |
+| *In Silico Pharmacology* | Springer Nature | 2023 |
+| *Discover Chemistry* | Springer Nature | 2024 |
+| *BMC Immunology* | Springer Nature (BMC) | 2026 |
 
 ---
 
