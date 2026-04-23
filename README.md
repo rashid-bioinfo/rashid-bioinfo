@@ -100,7 +100,7 @@ Computational chemist and bioinformatician working at the interface of **molecul
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rashid-bioinfo&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashid-bioinfo&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashid-bioinfo&layout=compact&hide_border=true&theme=default&hide=jupyter%20notebook" alt="Top Languages" height="165">
 </p>
 
 ---
