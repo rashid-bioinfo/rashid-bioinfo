@@ -48,74 +48,67 @@ Computational chemist and bioinformatician working at the interface of **molecul
 
 ## Technical Skills
 
-**Programming & Scripting**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-**GUI & Application Development** *(from repositories)*
-
-![tkinter](https://img.shields.io/badge/tkinter-GUI%20Development-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Molecular Modelling & Simulation** *(from repositories)*
-
-![GROMACS](https://img.shields.io/badge/GROMACS-MD%20Simulation-0A66C2?style=flat-square)
-![AMBER](https://img.shields.io/badge/AMBER-MD%20Simulation-0A66C2?style=flat-square)
-![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-Molecular%20Docking-0A66C2?style=flat-square)
-![AutoDock 4](https://img.shields.io/badge/AutoDock%204-Molecular%20Docking-0A66C2?style=flat-square)
-![PyMOL](https://img.shields.io/badge/PyMOL-Structural%20Visualisation-0A66C2?style=flat-square)
-![MGLTools](https://img.shields.io/badge/MGLTools-AutoDockTools-0A66C2?style=flat-square)
-
-**Cheminformatics & Drug Discovery** *(from repositories)*
-
-![RDKit](https://img.shields.io/badge/RDKit-Cheminformatics-3776AB?style=flat-square)
-![PaDEL-Descriptor](https://img.shields.io/badge/PaDEL-Descriptor-3776AB?style=flat-square)
-![ChEMBL](https://img.shields.io/badge/ChEMBL-Bioactivity%20Data-red?style=flat-square)
-![Open Babel](https://img.shields.io/badge/Open%20Babel-Format%20Conversion-3776AB?style=flat-square)
-![biopython](https://img.shields.io/badge/biopython-Bioinformatics-3776AB?style=flat-square)
-![pdb--tools](https://img.shields.io/badge/pdb--tools-PDB%20Handling-3776AB?style=flat-square)
-![scikit-spatial](https://img.shields.io/badge/scikit--spatial-Spatial%20Geometry-3776AB?style=flat-square)
-
-**Machine Learning & Data Science** *(from repositories)*
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-Regression%20%26%20Classification-F7931E?style=flat-square)
-![SVM](https://img.shields.io/badge/SVM-Support%20Vector%20Machine-F7931E?style=flat-square)
-![LazyPredict](https://img.shields.io/badge/LazyPredict-Model%20Comparison-F7931E?style=flat-square)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![seaborn](https://img.shields.io/badge/seaborn-Data%20Visualisation-4C72B0?style=flat-square)
-![matplotlib](https://img.shields.io/badge/matplotlib-Plotting-4C72B0?style=flat-square)
-![pickle](https://img.shields.io/badge/pickle-Model%20Serialisation-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Bioinformatics & Genomics** *(from repositories)*
+### 🧬 Bioinformatics & Multi-Omics
 
 ![RNA-seq](https://img.shields.io/badge/RNA--seq-Transcriptomics-27AE60?style=flat-square)
 ![scRNA-seq](https://img.shields.io/badge/scRNA--seq-Single%20Cell-27AE60?style=flat-square)
 ![ATAC-seq](https://img.shields.io/badge/ATAC--seq-Epigenomics-27AE60?style=flat-square)
 ![IMC](https://img.shields.io/badge/IMC-Imaging%20Mass%20Cytometry-27AE60?style=flat-square)
-![SpatialExperiment](https://img.shields.io/badge/SpatialExperiment-Spatial%20Omics-27AE60?style=flat-square)
+![Spatial Omics](https://img.shields.io/badge/Spatial%20Omics-SpatialExperiment-27AE60?style=flat-square)
 ![Genome Annotation](https://img.shields.io/badge/Genome%20Annotation-Sequence%20Analysis-27AE60?style=flat-square)
+![biopython](https://img.shields.io/badge/biopython-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Workflow & DevOps** *(from repositories)*
+### 🤖 Machine Learning & Data Science
 
-![Nextflow](https://img.shields.io/badge/Nextflow-Pipeline%20Automation-1ABC9C?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-Ensemble%20Learning-F7931E?style=flat-square)
+![SVM](https://img.shields.io/badge/SVM-Classification-F7931E?style=flat-square)
+![QSAR](https://img.shields.io/badge/QSAR-Bioactivity%20Prediction-F7931E?style=flat-square)
+![LazyPredict](https://img.shields.io/badge/LazyPredict-Model%20Benchmarking-F7931E?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-Statistical%20Plots-4C72B0?style=flat-square)
+![matplotlib](https://img.shields.io/badge/matplotlib-Visualisation-4C72B0?style=flat-square)
+
+### 💊 Computational Drug Discovery & Cheminformatics
+
+![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-Docking-0A66C2?style=flat-square)
+![AutoDock 4](https://img.shields.io/badge/AutoDock%204-Docking-0A66C2?style=flat-square)
+![GROMACS](https://img.shields.io/badge/GROMACS-MD%20Simulation-0A66C2?style=flat-square)
+![AMBER](https://img.shields.io/badge/AMBER-MD%20Simulation-0A66C2?style=flat-square)
+![PyMOL](https://img.shields.io/badge/PyMOL-Structural%20Viz-0A66C2?style=flat-square)
+![RDKit](https://img.shields.io/badge/RDKit-Cheminformatics-0A66C2?style=flat-square)
+![PaDEL](https://img.shields.io/badge/PaDEL-Fingerprints-0A66C2?style=flat-square)
+![ChEMBL](https://img.shields.io/badge/ChEMBL-Bioactivity%20DB-red?style=flat-square)
+![Open Babel](https://img.shields.io/badge/Open%20Babel-Format%20Conversion-0A66C2?style=flat-square)
+
+### 💻 Programming, Tools & Deployment
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-Pipelines-1ABC9C?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Java](https://img.shields.io/badge/Java-JRE%201.8%2B-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashid-bioinfo&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashid-bioinfo&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashid-bioinfo&show_icons=true&hide_border=true&count_private=true&theme=default&include_all_commits=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashid-bioinfo&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top Languages" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashid-bioinfo&hide_border=true&theme=default" alt="GitHub Streak" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rashid-bioinfo&no-frame=true&no-bg=true&margin-w=6&column=7&theme=flat" alt="GitHub Trophies">
 </p>
 
 ---
