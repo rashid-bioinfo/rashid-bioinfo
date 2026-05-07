@@ -99,8 +99,17 @@ Computational chemist and bioinformatician working at the interface of **molecul
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashid-bioinfo&show_icons=true&hide_border=true&count_private=true&theme=default&cache_seconds=86400" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashid-bioinfo&layout=compact&hide_border=true&theme=default&hide=jupyter%20notebook&cache_seconds=86400" alt="Top Languages" height="165">
+  <img src="https://img.shields.io/github/followers/rashid-bioinfo?label=Followers&style=flat-square&logo=github&color=4A90E2" alt="Followers">
+  <img src="https://img.shields.io/github/stars/rashid-bioinfo?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat-square&logo=github&color=f4c542" alt="Stars">
+  <img src="https://img.shields.io/badge/Public%20Repos-15-brightgreen?style=flat-square&logo=github" alt="Repos">
+  <img src="https://img.shields.io/badge/Focus-Computational%20Pathology-blueviolet?style=flat-square" alt="Focus">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-Bioinformatics%20%26%20Stats-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Java-QuPath%20Extensions-e07f2a?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Bash-Pipelines%20%26%20Automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
 </p>
 
 ---
